@@ -11,4 +11,4 @@ Layout do Aplicativo PINTEREST, feito na aula 1 de **HTML e CSS na prática**, d
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS / JS
+- HTML / CSS
